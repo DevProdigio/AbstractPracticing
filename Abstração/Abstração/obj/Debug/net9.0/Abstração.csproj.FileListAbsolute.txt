@@ -1,0 +1,15 @@
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\bin\Debug\net9.0\Abstração.exe
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\bin\Debug\net9.0\Abstração.deps.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\bin\Debug\net9.0\Abstração.runtimeconfig.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\bin\Debug\net9.0\Abstração.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\bin\Debug\net9.0\Abstração.pdb
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.AssemblyInfoInputs.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.AssemblyInfo.cs
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.csproj.CoreCompileInputs.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.sourcelink.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\refint\Abstração.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.pdb
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\Abstração.genruntimeconfig.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Abstração\obj\Debug\net9.0\ref\Abstração.dll

@@ -1,0 +1,15 @@
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\bin\Debug\net9.0\Sistema de pagamento.exe
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\bin\Debug\net9.0\Sistema de pagamento.deps.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\bin\Debug\net9.0\Sistema de pagamento.runtimeconfig.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\bin\Debug\net9.0\Sistema de pagamento.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\bin\Debug\net9.0\Sistema de pagamento.pdb
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.AssemblyInfoInputs.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.AssemblyInfo.cs
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.csproj.CoreCompileInputs.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.sourcelink.json
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\refint\Sistema de pagamento.dll
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.pdb
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\Sistema de pagamento.genruntimeconfig.cache
+C:\Users\fimde\Documents\Estudando C#\OOP\Abstração\Desafio\Sistema de pagamento\Sistema de pagamento\obj\Debug\net9.0\ref\Sistema de pagamento.dll
